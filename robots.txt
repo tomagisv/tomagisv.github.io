@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://tomagisv.github.io/sitemap.html.gz
+Sitemap: https://tomagisv.github.io/app/sitemap.html.gz
+Sitemap: https://tomagisv.github.io/assets/sitemap.html.gz
+Sitemap: https://tomagisv.github.io/css/sitemap.html.gz
+Sitemap: https://tomagisv.github.io/includes/sitemap.html.gz
+Sitemap: https://tomagisv.github.io/item/sitemap.html.gz
+Sitemap: https://tomagisv.github.io/src/sitemap.html.gz
